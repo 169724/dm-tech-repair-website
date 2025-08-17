@@ -152,7 +152,7 @@ Jeśli chcesz — dodaj plik `LICENSE` (np. `MIT` lub `Apache‑2.0`).
 
 ---
 
-## <a id="en"></a>🇬🇧 Website — description (EN)
+## <img width="16" height="11" alt="image" src="https://github.com/user-attachments/assets/60978719-3730-4cb5-9830-5b246a50a0ca" /> Website — description (EN)
 
 ### ✨ Features
 
