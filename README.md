@@ -136,12 +136,6 @@ Location: Rzeszów, Poland
 
 ---
 
-### Screenshots (optional)
-
-Add a `/screenshots` folder and include UI previews in this README.
-
----
-
 ### Changelog (example)
 
 * **v1.0.0** — Initial release: bilingual UI, appointment modal, Web3Forms integration, SEO, accessibility polish.
