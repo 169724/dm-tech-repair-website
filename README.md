@@ -4,6 +4,10 @@
 
 ---
 
+> **Live preview:** [https://169724.github.io/dm-tech-repair-website/](https://169724.github.io/dm-tech-repair-website/)
+
+---
+
 ## <img width="16" height="11" alt="image" src="https://github.com/user-attachments/assets/31637c7c-c9cc-413e-98a5-a574fcceafaa" /> Strona WWW — opis (PL)
 
 ### ✨ Funkcje
@@ -138,13 +142,6 @@ Jeśli chcesz — dodaj plik `LICENSE` (np. `MIT` lub `Apache‑2.0`).
 
 ---
 
-### 📬 Kontakt
-
-> **Uwaga:** nie publikuj danych prywatnych w publicznym repo.
-> Wstaw tutaj dane firmowe lub adres e‑mail aliasu, np.: `contact@example.com`.
-
----
-
 ### 🗒️ Changelog
 
 * **v1.1.0** — Dodano **pasek progresu przewijania** (u góry), poprawiono mobilny hamburger, dopracowano przełącznik flag (SVG), drobne poprawki dostępności.
@@ -153,6 +150,12 @@ Jeśli chcesz — dodaj plik `LICENSE` (np. `MIT` lub `Apache‑2.0`).
 ---
 
 ## <img width="16" height="11" alt="image" src="https://github.com/user-attachments/assets/60978719-3730-4cb5-9830-5b246a50a0ca" /> Website — description (EN)
+
+---
+
+> **Live preview:** [https://169724.github.io/dm-tech-repair-website/](https://169724.github.io/dm-tech-repair-website/)
+
+---
 
 ### ✨ Features
 
@@ -283,13 +286,6 @@ This repository is tailored for a specific business. External PRs are not expect
 
 No open‑source license is specified. All rights reserved by the project owner.
 If you prefer open‑source, add a `LICENSE` file (e.g., `MIT` or `Apache‑2.0`).
-
----
-
-### 📬 Contact
-
-> **Note:** don’t publish private details in a public repo.
-> Put your public business contact here, e.g.: `contact@example.com`.
 
 ---
 
