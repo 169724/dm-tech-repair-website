@@ -4,7 +4,7 @@
 
 ---
 
-## <a id="pl"></a>🇵🇱 Strona WWW — opis (PL)
+## <img width="16" height="11" alt="image" src="https://github.com/user-attachments/assets/31637c7c-c9cc-413e-98a5-a574fcceafaa" /> Strona WWW — opis (PL)
 
 ### ✨ Funkcje
 
